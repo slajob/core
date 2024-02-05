@@ -109,6 +109,7 @@ FLOWS = {
         "dexcom",
         "dialogflow",
         "directv",
+        "dirigera_py",
         "discord",
         "discovergy",
         "dlink",

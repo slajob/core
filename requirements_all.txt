@@ -712,6 +712,9 @@ devolo-plc-api==1.4.1
 # homeassistant.components.directv
 directv==0.4.0
 
+# homeassistant.components.dirigera_py
+dirigera==1.0.6
+
 # homeassistant.components.discogs
 discogs-client==2.3.0
 

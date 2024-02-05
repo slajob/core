@@ -1189,6 +1189,12 @@
       "config_flow": true,
       "iot_class": "local_polling"
     },
+    "dirigera_py": {
+      "name": "Ikea Dirigera Python",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "local_polling"
+    },
     "discogs": {
       "name": "Discogs",
       "integration_type": "hub",

@@ -290,6 +290,8 @@ build.json @home-assistant/supervisor
 /homeassistant/components/diagnostics/ @home-assistant/core
 /tests/components/diagnostics/ @home-assistant/core
 /homeassistant/components/digital_ocean/ @fabaff
+/homeassistant/components/dirigera_py/ @slajob
+/tests/components/dirigera_py/ @slajob
 /homeassistant/components/discogs/ @thibmaek
 /homeassistant/components/discord/ @tkdrob
 /tests/components/discord/ @tkdrob
