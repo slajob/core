@@ -1,0 +1,14 @@
+{
+  "domain": "dirigera_py",
+  "name": "Ikea Dirigera Python",
+  "codeowners": ["@slajob"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/dirigera_py",
+  "homekit": {},
+  "iot_class": "local_polling",
+  "requirements": ["dirigera==1.0.6"],
+  "ssdp": [],
+  "zeroconf": [],
+  "version": "0.0.1"
+}
